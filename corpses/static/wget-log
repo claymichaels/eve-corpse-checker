@@ -1,0 +1,11 @@
+--2020-09-08 17:11:51--  https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcrossingzebras.com%2Fwp-content%2Fuploads%2F2014%2F11%2FelXEzL6.png
+Resolving external-content.duckduckgo.com (external-content.duckduckgo.com)... 52.149.246.247
+Connecting to external-content.duckduckgo.com (external-content.duckduckgo.com)|52.149.246.247|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘index.html?u=http:%2F%2Fcrossingzebras.com%2Fwp-content%2Fuploads%2F2014%2F11%2FelXEzL6.png’
+
+              index.html?u=h     [<=>                                         ]       0  --.-KB/s                            index.html?u=ht     [ <=>                                        ]   1.16M  5.80MB/s               index.html?u=http:%2F%2Fcros     [  <=>                                       ]   1.34M  6.06MB/s    in 0.2s    
+
+2020-09-08 17:11:52 (6.06 MB/s) - ‘index.html?u=http:%2F%2Fcrossingzebras.com%2Fwp-content%2Fuploads%2F2014%2F11%2FelXEzL6.png’ saved [1402529]
+

@@ -1,0 +1,8 @@
+MANIFEST.in
+setup.py
+corpses.egg-info/PKG-INFO
+corpses.egg-info/SOURCES.txt
+corpses.egg-info/dependency_links.txt
+corpses.egg-info/not-zip-safe
+corpses.egg-info/requires.txt
+corpses.egg-info/top_level.txt
