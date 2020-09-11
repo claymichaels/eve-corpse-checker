@@ -1,3 +1,0 @@
-graft corpses/static
-gratf corpses/templates
-global-exclude *.pyc
